@@ -1,0 +1,2 @@
+Esta ruta hace que el servidor muestre el mensaje “Hola mundo” cuando alguien entra a la página principal.
+En una aplicación comunitaria podría servir para mostrar información importante, como noticias, eventos, avisos o mensajes para los miembros de la comunidad. También puede ayudar a organizar la comunicación y facilitar el acceso a la
