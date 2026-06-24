@@ -1,7 +1,20 @@
-const express = Require('express');
+const express = require('express');
 const app = express();
 
 app.use(express.json());
+
+app.post('/registro', (req, res) => {
+
+  const nombre = req.body.nombre;
+  const mensaje = req.body.mensaje;
+
+  res.json({
+    estado: "Datos recibidos",
+    nombre: nombre,
+    mensaje: mensaje
+  });
+
+});
 
 app.post('/incidencia', (req, res) => {
 
@@ -16,7 +29,7 @@ app.post('/incidencia', (req, res) => {
 
 });
 
- 
 app.listen(3000, () => {
-  console.log('Servidor ejecutándose en puerto http://localhost:3000/registro');
+  console.log('Servidor ejecutándose en puerto http://localhost:3000/');
 });
+
