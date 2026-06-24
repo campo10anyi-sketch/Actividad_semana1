@@ -1,0 +1,13 @@
+Al ejecutar el comando `node server.js`, se inicia el servidor web desarrollado con Express y queda escuchando en el puerto 3000.
+
+En la terminal aparece el mensaje:
+`Servidor ejecutándose en puerto http://localhost:3000/estado`
+
+Cuando se visita la ruta `/estado` en el navegador, el servidor responde con información en formato JSON indicando que el servicio está activo.
+
+Respuesta de la ruta `/estado`:
+
+{
+"estado": "Servidor funcionando",
+"servicio": "API comunitaria"
+}

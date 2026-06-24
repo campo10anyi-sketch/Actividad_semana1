@@ -1,0 +1,7 @@
+1.No exponer datos personales de los usuarios.
+2.Utilizar contraseñas seguras y proteger las credenciales.
+3.Usar conexiones seguras (HTTPS) para transmitir información.
+4.Registrar y monitorear los accesos a la plataforma.
+5.Limitar el acceso a información sensible según el rol de cada usuario.
+
+Estas prácticas ayudan a proteger la información, prevenir accesos no autorizados y fortalecer la confianza de la comunidad.
