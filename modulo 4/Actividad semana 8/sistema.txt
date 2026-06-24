@@ -1,0 +1,11 @@
+¿Por qué es útil conocer esta información al administrar un servidor?
+
+Permite detectar problemas de rendimiento (CPU o RAM saturada).
+
+Ayuda a planificar recursos antes de instalar servicios o aplicaciones.
+
+Facilita el diagnóstico de fallos cuando el servidor responde lento o se cae.
+
+Permite verificar que el sistema tenga espacio en disco suficiente para registros, bases de datos y copias de seguridad.
+
+Ayuda a mantener la seguridad y estabilidad, ya que conocer la versión del sistema y el hardware facilita aplicar actualizaciones y configuraciones adecuadas.

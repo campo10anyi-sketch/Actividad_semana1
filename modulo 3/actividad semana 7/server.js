@@ -8,7 +8,7 @@ let reportes = [
     id: 1,
     tipo: "Infraestructura",
     descripcion: "Daño en alumbrado público"
-  }
+  },
   {
     id:2,
   "tipo": "Ambiente",

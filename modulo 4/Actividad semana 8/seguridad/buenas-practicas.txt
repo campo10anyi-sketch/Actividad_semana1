@@ -1,0 +1,2 @@
+1. Proteger contrase¤as 
+2. No compartir credenciales 
