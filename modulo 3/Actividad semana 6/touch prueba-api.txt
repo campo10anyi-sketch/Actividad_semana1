@@ -1,0 +1,18 @@
+Al enviar una petición POST a la ruta http://localhost:3000/registro con el siguiente JSON:
+
+{
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+el servidor recibe los datos en req.body gracias al middleware express.json().
+
+La respuesta dependerá del código de la ruta /registro. Si la ruta está programada para devolver un mensaje de confirmación, el servidor responderá indicando que los datos fueron recibidos correctamente.
+
+Por ejemplo, una respuesta posible sería:
+
+{
+"mensaje": "Datos recibidos correctamente"
+}
+
+Esto demuestra que Express puede recibir y procesar información enviada en formato JSON mediante peticiones POST.
