@@ -1,0 +1,8 @@
+Evento que activa el flujo:
+Cuando un ciudadano registra un nuevo reporte en la plataforma de veeduría.
+
+Mensaje que se enviaría a Telegram:
+"Se ha recibido un nuevo reporte ciudadano. Ingrese al sistema para revisarlo y darle seguimiento."
+
+Información que no debería enviarse por seguridad:
+No se deben enviar nombres completos, números de documento, direcciones, teléfonos, correos electrónicos, contraseñas ni ninguna otra información sensible o personal. Solo debe compartirse la información necesaria para notificar que existe un nuevo reporte.
