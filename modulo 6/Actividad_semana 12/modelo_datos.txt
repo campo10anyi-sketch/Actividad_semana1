@@ -1,0 +1,22 @@
+Entidad: Causa
+
+Campos:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+La entidad Causa sirve para almacenar la información de cada petición o iniciativa creada por los ciudadanos. Permite registrar y organizar las causas que estarán disponibles en la plataforma para que otras personas puedan consultarlas y apoyarlas.
+
+
+Entidad: Apoyo
+
+Campos:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+La entidad Apoyo sirve para registrar cada apoyo que recibe una causa. Además, permite relacionar el apoyo con la causa correspondiente, llevar el conteo de participantes y hacer seguimiento a la participación ciudadana.
